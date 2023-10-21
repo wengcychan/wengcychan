@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently studying at a [Hive Helsinki](https://www.hive.fi/en/), a [42 coding school](https://www.hive.fi/en/).
+- 🔭 I’m currently studying at a [Hive Helsinki](https://www.hive.fi/en/), a [42 coding school](https://42.fr/en/homepage/).
 - 🌱 I’m currently learning full stack development, game development and C++.
 - 🏢 I’m currently open for an intern or a junior software developer.
 - 📫 How to reach me: **wengcychan95@gmail.com**
