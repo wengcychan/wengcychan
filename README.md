@@ -19,9 +19,14 @@
 - **Online Course Projects**  
 [Full Stack Open 2023](https://github.com/wengcychan/fullstackopen.git) : &nbsp; Projects from Full Stack Open online course offered by the University of Helsinki
 
-- **Side Projects**  
+- **Side Projects**
+  - **Web Development**   
 [GreenBin](https://github.com/wengcychan/greenbin.git) : &nbsp; An innovative waste management system incentivizing waste sorting  
-[Community360](https://github.com/wengcychan/community360.git) : &nbsp; A city planning platform for public engagement developed by Unity
+
+  - **Gaming**  
+[Roll to Root](https://github.com/wengcychan/roll-to-root.git) : &nbsp;  A game inspired by French Petanque with unique gameplay dynamics  
+[Crowd Ban](https://github.com/wengcychan/crowd-ban.git) : &nbsp; A crowd control game  
+[Community360](https://github.com/wengcychan/community360.git) : &nbsp; A city planning platform for public engagement
 
 <br>
 
@@ -42,8 +47,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)  
 
 - **Gaming**
 
