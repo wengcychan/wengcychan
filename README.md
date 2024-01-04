@@ -23,6 +23,8 @@
 - **Side Projects**
   - **Web Development**   
 [GreenBin](https://github.com/wengcychan/greenbin.git) : &nbsp; An innovative waste management system incentivizing waste sorting  
+[HackNext](https://github.com/wengcychan/hacknext.git) : &nbsp; An interactive web platform for post-hackathon development  
+[Personal Portfolio](https://github.com/wengcychan/portfolio.git) : &nbsp; My personal portfolio  
 
   - **Gaming**  
 [Roll to Root](https://github.com/wengcychan/roll-to-root.git) : &nbsp;  A game inspired by French Petanque with unique gameplay dynamics  
