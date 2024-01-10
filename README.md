@@ -8,7 +8,7 @@
 - 🌱 I’m learning full stack development, game development and C++.
 - 🏢 I'm open to opportunities as an intern or junior software developer.
 - 📫 How to reach me: **wengcychan95@gmail.com**
-- 🌐 Check out my portfolio website: **https://wengcychan.github.io/portfolio/**
+- 🌐 Check out my portfolio website: **https://wengcychan.github.io/**
 
 <br>
 
